@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Editor",
+  "description": "Use text prompts to edit images with the power of Gemini. Upload an image, describe your desired changes like 'add a retro filter' or 'remove the background', and let the AI generate a new version.",
+  "requestFramePermissions": []
+}
